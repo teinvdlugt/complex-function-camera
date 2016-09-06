@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Complex Function Camera</string>
+    <string name="take_picture">Take picture</string>
+    <string name="xs_unprocessed_image">Unprocessed image</string>
+    <string name="processed_image">Processed image</string>
+    <string name="process">Process</string>
+</resources>
