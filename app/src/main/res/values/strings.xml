@@ -4,4 +4,6 @@
     <string name="xs_unprocessed_image">Unprocessed image</string>
     <string name="processed_image">Processed image</string>
     <string name="process">Process</string>
+    <string name="no_camera_available">No camera app available...</string>
+    <string name="use_grid">Use grid</string>
 </resources>
